@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ab5fc3a.css",
+    "main.js": "/static/js/main.50cac09d.js",
+    "static/media/logo.png": "/static/media/logo.73ef8c929196f490591f.png",
+    "static/media/flag.png": "/static/media/flag.9796a8b70fbd8563658b.png",
+    "static/media/Tajawal-Medium.ttf": "/static/media/Tajawal-Medium.39f6e7909da6851b0fca.ttf",
+    "static/media/Tajawal-Bold.ttf": "/static/media/Tajawal-Bold.5225a40edb511ebac6f5.ttf",
+    "static/media/Tajawal-Regular.ttf": "/static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
+    "static/media/ecashBlack.png": "/static/media/ecashBlack.015befca2d5daa6c24b2.png",
+    "static/media/ecash.png": "/static/media/ecash.84faa12541cd04ff8947.png",
+    "index.html": "/index.html",
+    "main.6ab5fc3a.css.map": "/static/css/main.6ab5fc3a.css.map",
+    "main.50cac09d.js.map": "/static/js/main.50cac09d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab5fc3a.css",
+    "static/js/main.50cac09d.js"
+  ]
+}
